@@ -11,7 +11,7 @@ None
 Dependencies
 --------------
 
-* [darkraiden.ansible-pip](https://galaxy.ansible.com/darkraiden/ansible-pip)
+* [ansible-role-pip](https://github.com/Crowdcube/ansible-role-pip)
 
 Role Variables
 --------------
@@ -120,7 +120,7 @@ Example Playbook
 ```
     - hosts: all
       roles:
-         - darkraiden.ansible-docker
+         - ansible-role-docker
 ```
 
 License
