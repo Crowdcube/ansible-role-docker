@@ -1,12 +1,12 @@
 ---
 
 dependencies:
-  - darkraiden.ansible-pip
+  - ansible-role-pip
 
 galaxy_info:
   author: darkraiden
   description: Install and configure docker
-  company:
+  company: Crowdcube ltd
   license: BSD
   min_ansible_version: 2.0
 
